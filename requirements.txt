@@ -1,9 +1,11 @@
 flask==2.0.3
-pandas==1.5.3  # Обновленная версия
-numpy==1.24.3  # Работает с Python 3.9-3.11
-plotly==5.18.0
-scikit-learn==1.2.2
-lightgbm==3.3.5
-python-dotenv==0.21.1
+pandas==1.3.5
+numpy==1.21.6
+plotly==5.10.0
+scikit-learn==1.0.2
+lightgbm==3.3.2
+python-dotenv==0.19.2
 gunicorn==20.1.0
-flask-sqlalchemy==3.0.3
+flask-sqlalchemy==2.5.1
+setuptools==59.8.0
+wheel==0.37.1
